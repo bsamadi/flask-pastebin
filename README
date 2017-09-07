@@ -1,9 +1,9 @@
 
 
-  // Flask-Pastebin //
+  // Flask-Pastebin for Python3 //
 
      This application implements an example pastebin with Flask,
-     Flask-OAuth, Flask-SQLAlchemy, Flask-Script, as well as
+     Flask-OAuthlib, Flask-SQLAlchemy, Flask-Script, as well as
      Juggernaut to show off some realtime things.
 
   What can it do?
