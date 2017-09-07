@@ -1,5 +1,5 @@
 Flask
-Flask-OAuth
+Flask-OAuthlib
 Flask-SQLAlchemy
 Flask-Script
 juggernaut

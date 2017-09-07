@@ -1,8 +1,8 @@
 from datetime import datetime
 from flask import Flask, request, url_for, redirect, g, session, flash, \
      abort, render_template
-from flask.ext.sqlalchemy import SQLAlchemy
-from flask.ext.oauth import OAuth
+from flask_sqlalchemy import SQLAlchemy
+from flask_oauthlib.client import OAuth
 from juggernaut import Juggernaut
 
 
